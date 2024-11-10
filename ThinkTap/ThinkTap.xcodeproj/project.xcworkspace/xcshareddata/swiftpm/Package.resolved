@@ -1,0 +1,15 @@
+{
+  "originHash" : "b1368cb337eb7dc30301b8b567973e525fde41425b5e9ab11fff095ce660d14a",
+  "pins" : [
+    {
+      "identity" : "ghostingkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rryam/GhostingKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "48b56e2675166df4c034b3279f4a18fff1b51417"
+      }
+    }
+  ],
+  "version" : 3
+}
